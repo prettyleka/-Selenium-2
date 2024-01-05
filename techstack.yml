@@ -1,7 +1,8 @@
 repo_name: prettyleka/-Selenium-2
 report_id: bd3e4cc181666697777ed8145b880b3b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:31:27+00:00'
+timestamp: '2024-01-05T08:51:59+00:00'
 requested_by: prettyleka
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: TikTak.csproj
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/TikTak.csproj
   detection_source: TikTak.csproj
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -65,7 +69,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/2250/LogoNH_med_400x400.JPG
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2
   detection_source: Repo Metadata
 - name: NUnit
   description: An open-source unit testing framework
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -97,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -109,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -121,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/TikTak.sln
   detection_source: TikTak.sln
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -132,6 +141,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -144,6 +154,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -156,6 +167,7 @@ tools:
   category: Application Utilities
   sub_category: API Tools
   image_url: https://img.stackshare.io/service/20915/default_445d4e39e5f74faa53e6902cd6d552ff56c3a0a3.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -168,7 +180,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13232/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -183,7 +195,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14561/default_2cdecae299b16f7e5120392b94415caf67b24d08.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -198,7 +210,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13366/default_24f30a6aa060dc11b9cd4dd1d52905db9245e978.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -213,7 +225,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15401/default_2d3a54fb471e8215ac08e1a9313c21a7a69a9e8b.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -227,7 +239,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13222/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -242,7 +254,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13107/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -256,7 +268,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -270,7 +282,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -284,7 +296,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13466/default_1eef7832e807cb1f2ca919f1990fe06dfb2504f3.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -298,7 +310,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15224/default_59d513d7a7e0f6cb7b66453b72ce6f9ad11a31cc.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -312,7 +324,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13406/default_58586312c472dfb09866d07812bed5501fb0b524.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -326,7 +338,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13026/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -339,7 +351,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13027/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -352,7 +364,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -372,7 +384,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13134/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -386,7 +398,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13086/default_f40625acd95121d452edf898b600c5691551f727.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -400,13 +412,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -421,7 +439,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13114/default_7730aba6df4478f4dfdede17ef73dd29c3d5f711.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -442,7 +460,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13372/default_4a1701a75df51c31b589687449edcfa80a63d127.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -456,7 +474,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13673/default_caea7bad7b4a139d311b2e539aca8e744ed730e5.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -471,7 +489,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12990/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -486,7 +504,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -500,7 +518,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -513,7 +531,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -527,7 +545,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13018/default_82fb13e12684b07ef964d86ffaca5381cd113e32.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -541,7 +559,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13110/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -555,7 +573,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12989/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -569,7 +587,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13012/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -583,7 +601,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12920/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -596,7 +614,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12974/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -610,7 +628,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13087/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -623,7 +641,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -636,7 +654,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13204/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
@@ -650,7 +668,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-2/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
