@@ -3,16 +3,16 @@
 ## Tech Stack
 prettyleka/-Selenium-2 is built on the following main stack:
 
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ASP.NET](https://www.asp.net/) – Languages
 - [C#](http://csharp.net) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [MongoDB](http://www.mongodb.com/) – Databases
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Selenium](http://www.seleniumhq.org/) – Browser Testing
 - [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
 - [NUnit](http://www.nunit.org/) – Testing Frameworks
+- [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 - [JSON Web Token](http://jwt.io/) – User Management and Authentication
-- [ASP.NET](https://www.asp.net/) – Languages
 - [RestSharp](https://restsharp.dev/) – API Tools
 
 Full tech stack [here](/techstack.md)
@@ -23,16 +23,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 prettyleka/-Selenium-2 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/2250/LogoNH_med_400x400.JPG' alt='NHibernate'/> [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png' alt='NUnit'/> [NUnit](http://www.nunit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/6417/jwt-icon.png' alt='JSON Web Token'/> [JSON Web Token](http://jwt.io/) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/20915/default_445d4e39e5f74faa53e6902cd6d552ff56c3a0a3.png' alt='RestSharp'/> [RestSharp](https://restsharp.dev/) – API Tools
 
 Full tech stack [here](/techstack.md)
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [prettyleka/-Selenium-2](https://github.com/prettyleka/-Selenium-2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|47<br/>Tools used|01/05/24 <br/>Report generated|
+|47<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -193,7 +193,7 @@ Full tech stack [here](/techstack.md)
 |[MSTest.TestFramework](https://www.nuget.org/MSTest.TestFramework)|v2.0.0|02/04/20|Valeria Basov |MIT|N/A|
 |[Microsoft.AspNet.Razor](https://www.nuget.org/Microsoft.AspNet.Razor)|v3.0.0|02/04/20|Valeria Basov |Apache-2.0|N/A|
 |[Microsoft.IdentityModel](https://www.nuget.org/Microsoft.IdentityModel)|v7.0.0|02/04/20|Valeria Basov |N/A|N/A|
-|[Microsoft.IdentityModel.JsonWebTokens](https://www.nuget.org/Microsoft.IdentityModel.JsonWebTokens)|v5.6.0|02/04/20|Valeria Basov |MIT|N/A|
+|[Microsoft.IdentityModel.JsonWebTokens](https://www.nuget.org/Microsoft.IdentityModel.JsonWebTokens)|v5.6.0|02/04/20|Valeria Basov |MIT|[CVE-2024-21319](https://github.com/advisories/GHSA-8g9c-28fc-mcx2) (Moderate)<br/>[](https://github.com/advisories/GHSA-59j7-ghrg-fj52) (Moderate)|
 |[Microsoft.IdentityModel.Logging](https://www.nuget.org/Microsoft.IdentityModel.Logging)|v5.6.0|02/04/20|Valeria Basov |MIT|N/A|
 |[Microsoft.IdentityModel.Tokens](https://www.nuget.org/Microsoft.IdentityModel.Tokens)|v5.6.0|02/04/20|Valeria Basov |MIT|N/A|
 |[MongoDB.Bson](https://www.nuget.org/MongoDB.Bson)|v2.7.2|02/04/20|Valeria Basov |N/A|N/A|
@@ -212,7 +212,7 @@ Full tech stack [here](/techstack.md)
 |[System.ComponentModel.Primitives](https://www.nuget.org/System.ComponentModel.Primitives)|v4.3.0|02/04/20|Valeria Basov |N/A|N/A|
 |[System.ComponentModel.TypeConverter](https://www.nuget.org/System.ComponentModel.TypeConverter)|v4.3.0|02/04/20|Valeria Basov |N/A|N/A|
 |[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.7.0|02/04/20|Valeria Basov |MIT|N/A|
-|[System.IdentityModel.Tokens.Jwt](https://www.nuget.org/System.IdentityModel.Tokens.Jwt)|v5.6.0|02/04/20|Valeria Basov |MIT|N/A|
+|[System.IdentityModel.Tokens.Jwt](https://www.nuget.org/System.IdentityModel.Tokens.Jwt)|v5.6.0|02/04/20|Valeria Basov |MIT|[CVE-2024-21319](https://github.com/advisories/GHSA-8g9c-28fc-mcx2) (Moderate)<br/>[](https://github.com/advisories/GHSA-59j7-ghrg-fj52) (Moderate)|
 |[System.Memory](https://www.nuget.org/System.Memory)|v4.5.3|02/04/20|Valeria Basov |N/A|N/A|
 |[System.Numerics.Vectors](https://www.nuget.org/System.Numerics.Vectors)|v4.5.0|02/04/20|Valeria Basov |N/A|N/A|
 |[System.Runtime.InteropServices.RuntimeInformation](https://www.nuget.org/System.Runtime.InteropServices.RuntimeInformation)|v4.0.0|02/04/20|Valeria Basov |N/A|N/A|
