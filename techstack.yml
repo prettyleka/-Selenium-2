@@ -2,7 +2,7 @@ repo_name: prettyleka/-Selenium-2
 report_id: bd3e4cc181666697777ed8145b880b3b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:51:59+00:00'
+timestamp: '2024-02-29T18:38:04+00:00'
 requested_by: prettyleka
 provider: github
 branch: master
@@ -314,6 +314,19 @@ tools:
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
+  vulnerabilities:
+  - name: Microsoft Identity Denial of service vulnerability
+    cve_id: CVE-2024-21319
+    cve_url: https://github.com/advisories/GHSA-8g9c-28fc-mcx2
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
+  - name: 'Microsoft Security Advisory CVE-2024-21319: .NET Denial of Service Vulnerability'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-59j7-ghrg-fj52
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
 - name: Microsoft.IdentityModel.Logging
   description: Includes Event Source based logging support
   package_url: https://www.nuget.org/Microsoft.IdentityModel.Logging
@@ -605,6 +618,19 @@ tools:
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:08:45.000000000 Z
+  vulnerabilities:
+  - name: Microsoft Identity Denial of service vulnerability
+    cve_id: CVE-2024-21319
+    cve_url: https://github.com/advisories/GHSA-8g9c-28fc-mcx2
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
+  - name: 'Microsoft Security Advisory CVE-2024-21319: .NET Denial of Service Vulnerability'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-59j7-ghrg-fj52
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
 - name: System.Memory
   description: Provides types for efficient representation and pooling of managed
   package_url: https://www.nuget.org/System.Memory
